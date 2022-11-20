@@ -1,26 +1,35 @@
 import React from "react";
 import styled from "styled-components";
 
-export default function Pictures() {
+export default function PicturesLea() {
   return (
     <Container>
       <Wrap>
-        <img src="/pictures/ema/ema_03.jpg" />
+        <img src="/pictures/lea/lea_01.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/lea/lea_02.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/lea/lea_03.jpg" />
       </Wrap>
       <Wrap>
         <img src="/pictures/lea/lea_04.jpg" />
       </Wrap>
       <Wrap>
-        <img src="/pictures/jane/jane_01.jpg" />
+        <img src="/pictures/lea/lea_05.jpg" />
       </Wrap>
       <Wrap>
-        <img src="/pictures/julian/julian_01.jpg" />
+        <img src="/pictures/lea/lea_06.jpg" />
       </Wrap>
       <Wrap>
-        <img src="/pictures/nufko/nufko_01.jpg" />
+        <img src="/pictures/lea/lea_07.jpg" />
       </Wrap>
       <Wrap>
-        <img src="/pictures/bak/bak_05.jpg" />
+        <img src="/pictures/lea/lea_08.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/lea/lea_09.jpg" />
       </Wrap>
     </Container>
   );

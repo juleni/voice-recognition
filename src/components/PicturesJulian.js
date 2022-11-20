@@ -1,26 +1,32 @@
 import React from "react";
 import styled from "styled-components";
 
-export default function Pictures() {
+export default function PicturesJulian() {
   return (
     <Container>
-      <Wrap>
-        <img src="/pictures/ema/ema_03.jpg" />
-      </Wrap>
-      <Wrap>
-        <img src="/pictures/lea/lea_04.jpg" />
-      </Wrap>
-      <Wrap>
-        <img src="/pictures/jane/jane_01.jpg" />
-      </Wrap>
       <Wrap>
         <img src="/pictures/julian/julian_01.jpg" />
       </Wrap>
       <Wrap>
-        <img src="/pictures/nufko/nufko_01.jpg" />
+        <img src="/pictures/julian/julian_02.jpg" />
       </Wrap>
       <Wrap>
-        <img src="/pictures/bak/bak_05.jpg" />
+        <img src="/pictures/julian/julian_03.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/julian/julian_04.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/julian/julian_05.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/julian/julian_06.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/julian/julian_07.jpg" />
+      </Wrap>
+      <Wrap>
+        <img src="/pictures/julian/julian_08.jpg" />
       </Wrap>
     </Container>
   );
